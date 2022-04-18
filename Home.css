@@ -3,6 +3,8 @@
     width: 100%;
     background-color: cornflowerblue;
     color: aliceblue;
+    position: fixed;
+    top:0;
 }
 
 .Container {
